@@ -1,0 +1,41 @@
+.topHead {
+  font-size: 1.2em;
+  padding-left: 9vh;
+  font-weight: bold;
+  text-align: left;
+}
+.headLabel {
+  font-weight: 200;
+  font-size: 0.7em;
+}
+.notification {
+  top: 25px;
+  left: 1193px;
+  width: 21px;
+  height: 24px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+  padding-right: 2vh;
+  padding-top: 1.3vh;
+}
+.user_name {
+  padding-left: 2vh;
+}
+.divider {
+  padding-top: 2vh;
+  padding-bottom: 3vh;
+}
+.photoshootAdd {
+  border: 1px solid grey;
+  max-width: 20vh;
+  min-height: 4.5vh;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.addSign {
+  color: #ea4d23;
+  font-size: 1.4em;
+}
+/* .addButton {
+  margin-left: 100vh;
+} */

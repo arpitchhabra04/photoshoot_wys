@@ -1,0 +1,50 @@
+.bottom_main {
+  margin-left: 9vh;
+  margin-top: 3vh;
+  margin-bottom: 2vh;
+  background-color: white;
+  max-width: 190vh;
+  box-shadow: 4px 4px grey;
+  border-radius: 10px;
+}
+.bottom {
+  top: 0px;
+  left: 0px;
+  width: 1366px;
+  height: 110vh;
+  opacity: 1;
+}
+.hotelName {
+  font-weight: 700;
+  padding-left: 200px;
+  font-size: 1.2em;
+}
+.hotelInfo {
+  margin-top: 2vh;
+  background-color: white;
+  margin-bottom: 2vh;
+}
+.infoLabel {
+  font-weight: 200;
+  color: #8d8d8d;
+}
+.status {
+  color: #10c169;
+  font-weight: bold;
+}
+.searchButton {
+  border: 1px solid #c1c1c1;
+  margin-left: 9vh;
+  max-width: 50vh;
+  text-align: left;
+  font-weight: 400;
+  margin-top: 2vh;
+}
+.twoButtons {
+  margin-left: 102vh;
+  max-height: 2vh;
+}
+.view_more {
+  color: #8d8d8d;
+  font-weight: 600;
+}
